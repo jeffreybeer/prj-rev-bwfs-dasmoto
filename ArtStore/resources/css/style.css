@@ -1,0 +1,31 @@
+*{
+  font-family: Helvetica
+}
+#dasmotos {
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  }
+#brushes {
+  background-color:mediumspringgreen;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  }
+#starting {
+  color: blue;
+  }
+#frames {
+  background-color: lightcoral;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  }
+#paint {
+  background-color: skyblue;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  }
