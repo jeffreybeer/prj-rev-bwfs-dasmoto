@@ -1,6 +1,9 @@
-*{
+h1, h2, h3, p{
   font-family: Helvetica
 }
+.price {
+  color: blue;
+  }
 #dasmotos {
   text-align: center;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
@@ -9,13 +12,13 @@
   color: khaki;
   }
 #brushes {
-  background-color:mediumspringgreen;
+  background-color: mediumspringgreen;
   font-size: 32px;
   font-weight: bold;
   color: white;
   }
 #starting {
-  color: blue;
+	color: blue;
   }
 #frames {
   background-color: lightcoral;
